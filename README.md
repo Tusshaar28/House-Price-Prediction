@@ -25,7 +25,12 @@ You can install the necessary packages using pip:
 pip install pandas numpy seaborn matplotlib joblib scikit-learn
 ```
 ## Analysis
+**Correlation b/w Features**
 ![Correlation b/w Features](Plots/img.png)
+
+**Average House Price Across Locations**
 ![Average House Price Across Locations](Plots/img_1.png)
+
+**Relation b/w prices, location and size**
 ![Relation b/w prices, location and size](Plots/img_3.png)
 

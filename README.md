@@ -8,7 +8,7 @@ This project focuses on predicting house prices and analyzing factors that affec
 
 - **House Price Prediction**: Utilizes a trained model to predict house prices based on features such as size, location, and number of bathrooms.
 - **Data Analysis**: Includes graphical representations to analyze the impact of different features on house prices.
-
+- **Dataset**: Contains a self compiled dataset of 17000 houses in Mumbai extracted from magicbricks.com
 ## Prerequisites
 
 Ensure you have the following packages installed:

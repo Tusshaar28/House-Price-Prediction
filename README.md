@@ -34,7 +34,8 @@ pip install pandas numpy seaborn matplotlib joblib scikit-learn
 **Relation b/w prices, location and size**
 ![Relation b/w prices, location and size](Plots/img_3.png)
 
-##PowerBi Dashboard
+
+## PowerBi Dashboard
 ![Page1](Plots/11.jpg)
 
 ![Page2](Plots/12.jpg)
